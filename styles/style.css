@@ -67,10 +67,15 @@ img{
 
 .white-div{
     background: #FFF;
-    width: 400px;
+    width: 300px;
     padding: 10px;
 }
 
-.description{
-    margin-right: 0px;
+.bold{
+    font-weight: bold;
+    
+}
+
+.link-info{
+    color: #000;
 }
