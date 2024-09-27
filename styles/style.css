@@ -1,0 +1,76 @@
+body{
+    margin: 0px;
+    font-family: Roboto;
+    background: #e6e6e6;
+}
+
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 40px;
+    background: #0C9;
+    color: #FFF;
+    border-bottom: #000 solid 4px;
+}
+
+a{
+    color: #FFF;
+    text-decoration: none;
+}
+
+.title{
+    margin-left: 40px;
+}
+
+.right-gap{
+    margin-left: auto;
+}
+
+.right-margin-svg{
+    margin-right: 40px;
+}
+
+img{
+    width: 100%;
+}
+
+.lemon-image{
+    width: 600px;
+}
+
+.price-zone{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.price{
+    color: red;
+    font-size: 50px;
+}
+
+.caliber{
+    margin-top: 0px;
+}
+
+.base-container{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 60px;
+}
+
+.fit-content{
+    width: fit-content;
+}
+
+.white-div{
+    background: #FFF;
+    width: 400px;
+    padding: 10px;
+}
+
+.description{
+    margin-right: 0px;
+}
